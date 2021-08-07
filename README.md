@@ -18,6 +18,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshit09saini&repo=Django-Multiplayer-Blackjack&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake gif](https://github.com/harshit09saini/harshit09saini/blob/output/github-contribution-grid-snake.svg)
 <!---
 harshit09saini/harshit09saini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
