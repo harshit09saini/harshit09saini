@@ -25,9 +25,12 @@ Here are a few things I've learned along my journey.
 <hr>
 
 [![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit09saini&show_icons=true&theme=synthwave&hide=issues&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshit09saini&theme=synthwave)](https://git.io/streak-stats) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit09saini&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshit09saini&repo=Django-Multiplayer-Blackjack&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Blackjack](https://github-readme-stats.vercel.app/api/pin/?username=harshit09saini&repo=Django-Multiplayer-Blackjack&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake gif](https://github.com/harshit09saini/harshit09saini/blob/output/github-contribution-grid-snake.svg)
 <!---
