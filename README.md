@@ -1,8 +1,19 @@
 <h1 align="center">Hello, I'm Harshit Saini 👋</h1> 
 
 ## About Me
-## I’m currently learning
-- Python
+
+🎓 I am a **Final Year Undergraduate** Student at **Sardar Vallabhbhai National Institute of Technology**, studying Electronics and Communication Enginnering 
+ 
+💼 I am currently looking for new opportunities. 
+
+## 👨‍💻 Tech Stack
+
+Here are a few things I've learned along my journey. 
+- Languages: Python | C++ | Matlab
+- Web (Frontend): HTML5 | CSS | Javascript | React.js
+- Web (Backend): Django | Flask | Node.js | Express.js
+- Database: MySQL | SQLite | MongoDB
+- VCS: Git | Github
 
 ## 📫 How to reach me 
 
