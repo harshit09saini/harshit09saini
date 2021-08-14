@@ -30,7 +30,7 @@ Here are a few things I've learned along my journey.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit09saini&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Blackjack](https://github-readme-stats.vercel.app/api/pin/?username=harshit09saini&repo=Django-Multiplayer-Blackjack&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Blackjack](https://github-readme-stats.vercel.app/api/pin/?username=harshit09saini&repo=Django-Multiplayer-Blackjack&show_icons=true&theme=synthwave)](https://github.com/harshit09saini/Django-Multiplayer-Blackjack)
 
 ![Snake gif](https://github.com/harshit09saini/harshit09saini/blob/output/github-contribution-grid-snake.svg)
 <!---
