@@ -24,8 +24,6 @@ Here are a few things I've learned along my journey.
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=harshit09saini&color=e5289e&style=flat-square)
-
 [![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit09saini&show_icons=true&theme=synthwave&hide=issues&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshit09saini&theme=synthwave)](https://git.io/streak-stats) 
